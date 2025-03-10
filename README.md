@@ -2,7 +2,7 @@
 
 EXE 실행파일과 제가 구현했던 소스코드들만 레포지토리에 포함하였습니다.<br>
 소스코드에 대한 필요한 설명들은 주석으로 현재 달아두었습니다.
-<br>
+<br><br>
 
 유튜브 영상 : https://youtu.be/iQB3RYAKHIA?si=Pz4x_eIdLN7srZDO
 
